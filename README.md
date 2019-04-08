@@ -1,3 +1,3 @@
 # ellen_collab
 
-Differential expression and pathway enrichmnet analsyis 
+Differential expression and pathway enrichmnet analysis 
